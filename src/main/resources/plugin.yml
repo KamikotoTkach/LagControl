@@ -1,0 +1,10 @@
+name: LagControl
+version: ${project.version}
+main: tkachgeek.lagcontrol.LagControl
+api-version: 1.16
+prefix: LagControl
+authors: [TkachGeek]
+
+commands:
+  LagControl:
+    aliases: [lc, lag]
